@@ -9,6 +9,7 @@ Before getting started with AR Filter, make sure you have the following prerequi
 Unity version 2020.3 or later
 AR Foundation package
 Android with AR capabilities
+
 Getting Started
 To begin creating your AR filters, follow these steps:
 
